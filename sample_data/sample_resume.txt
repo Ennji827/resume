@@ -1,0 +1,24 @@
+Erick Ng'ang'a Njihia
+Petroleum Geoscience & Geospatial (GIS/Remote Sensing) Professional
+
+Professional Profile:
+Disciplined petroleum geoscience professional currently attached to the Kenya Space
+Agency, gaining hands-on experience in Earth Observation, satellite imagery
+interpretation, geospatial data analysis, and land monitoring workflows.
+
+Skills:
+GIS, Remote Sensing & Earth Observation, Satellite Imagery Interpretation,
+Spatial Data Processing, QGIS & Google Earth Engine Workflows, Field Data
+Collection, Data Analysis & Technical Reporting, Python Programming,
+Data Analysis & Visualization, Machine Learning (Foundational)
+
+Experience:
+GIS / Remote Sensing Attachment - Kenya Space Agency
+- Work with satellite imagery, spatial datasets and geospatial workflows
+- Assist in satellite image interpretation, classification workflows, spatial
+  data analysis and map-based outputs
+- Exposure to Sentinel-2 imagery, land cover datasets, Google Earth Engine, QGIS
+
+Education:
+Diploma in Petroleum Geoscience, Eldoret Technical Training Institute
+Coursework: GIS & Remote Sensing, Applied Mathematics, Research Methods
